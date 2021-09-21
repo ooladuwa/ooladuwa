@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm Onaje but my friends call me Naj. I'm a full-stack web developer with a background in education. 
+I'm Onaje but my friends call me Naj. I'm a full-stack web developer with a background in education. I've learned and built with HTML, CSS, Styled Components, JavaScript, React, Redux, Node, Express, and a few more. Always excited to learn more and put gained knowledge into practical use.
 - 🔭 I’m currently working on getting my first job in tech!
 - 🌱 I’m currently learning Ant Design
 - 👯 I’m looking to collaborate on anything interesting
